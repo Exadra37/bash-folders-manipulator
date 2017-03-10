@@ -1,8 +1,20 @@
 {
     "name": "exadra37-bash/folders-manipulator",
-    "description": "All my repositories will have this one as starting point.",
+    "description": "Bash functions to manipulate only folders, not files.",
     "keywords": [
-        "Exadra37"
+        "Exadra37",
+        "bash",
+        "bash functions",
+        "bash package manager",
+        "bash required packages",
+        "bash bin package installer",
+        "bash folders manipulator",
+        "bash mkdir",
+        "mkdir",
+        "bash create folder",
+        "bash create folder recursively",
+        "bash create dir",
+        "bash create dir recursively"
     ],
     "homepage": "https://gitlab.com/exadra37-bash/folders-manipulator",
     "license": "GPL-3.0",
