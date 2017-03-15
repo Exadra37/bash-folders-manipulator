@@ -1,6 +1,6 @@
-# My Base Repository
+# Bash Folders Manipulator
 
-Some short description here...
+A set of functions to manipelate only folders, not files...
 
 
 ## SEMANTIC VERSIONING
